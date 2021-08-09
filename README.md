@@ -6,7 +6,7 @@ http://HannesKiehn.github.io/Fast-Food-Shop
 
 ## Introduction
 
-This project serves as a training ground to get familiar with javasscript and the react library. The goal is to build the frontend of an online food delivery service with all essential features (food selection, shopping basket, checkout page). The focus is more on functionality rather than UI-design.
+This project serves as a training ground to get familiar with javasscript and the react library. The goal is to build the frontend of an online food delivery service with all essential features (food selection, shopping basket, checkout page). The focus is more on functionality rather than UI-design.<br/>
 Feel free to try the application using the link above.
 
 ## Features
