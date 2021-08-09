@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Fast-Food-Shop/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Fast-Food-Shop/static/js/main.782fcd33.chunk.js",
+    "main.js.map": "/Fast-Food-Shop/static/js/main.782fcd33.chunk.js.map",
+    "runtime-main.js": "/Fast-Food-Shop/static/js/runtime-main.c6bf3661.js",
+    "runtime-main.js.map": "/Fast-Food-Shop/static/js/runtime-main.c6bf3661.js.map",
+    "static/css/2.26b352c4.chunk.css": "/Fast-Food-Shop/static/css/2.26b352c4.chunk.css",
+    "static/js/2.952db2e8.chunk.js": "/Fast-Food-Shop/static/js/2.952db2e8.chunk.js",
+    "static/js/2.952db2e8.chunk.js.map": "/Fast-Food-Shop/static/js/2.952db2e8.chunk.js.map",
+    "static/js/3.95b5938c.chunk.js": "/Fast-Food-Shop/static/js/3.95b5938c.chunk.js",
+    "static/js/3.95b5938c.chunk.js.map": "/Fast-Food-Shop/static/js/3.95b5938c.chunk.js.map",
+    "index.html": "/Fast-Food-Shop/index.html",
+    "static/css/2.26b352c4.chunk.css.map": "/Fast-Food-Shop/static/css/2.26b352c4.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Fast-Food-Shop/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.952db2e8.chunk.js.LICENSE.txt": "/Fast-Food-Shop/static/js/2.952db2e8.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/Fast-Food-Shop/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6bf3661.js",
+    "static/css/2.26b352c4.chunk.css",
+    "static/js/2.952db2e8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.782fcd33.chunk.js"
+  ]
+}
