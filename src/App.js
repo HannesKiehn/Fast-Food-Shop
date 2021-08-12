@@ -196,6 +196,20 @@ class App extends Component {
     });
   }
 
+  resetSortOptions() {
+    this.setState({
+      sortBy: {
+        default: true,
+        AZ: false,
+        ZA: false,
+        lowHigh: false,
+        highLow: false,
+        vegan: false,
+      },
+      rowsPerPage: 3,
+    });
+  }
+
   handleMenuPageChange = (pageNumber) => {
     this.setState({ page: pageNumber });
   };
@@ -211,6 +225,9 @@ class App extends Component {
     let { page, currentCategory } = this.state;
     if (currentCategory._id !== category._id) {
       page = 1;
+    }
+    if (currentCategory._id === this.state.shoppingBasketNavigationItem._id) {
+      this.resetSortOptions();
     }
     this.setState({
       showShoppingBasket,
