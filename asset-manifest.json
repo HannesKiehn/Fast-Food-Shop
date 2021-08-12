@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Fast-Food-Shop/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Fast-Food-Shop/static/js/main.782fcd33.chunk.js",
-    "main.js.map": "/Fast-Food-Shop/static/js/main.782fcd33.chunk.js.map",
+    "main.js": "/Fast-Food-Shop/static/js/main.c133b671.chunk.js",
+    "main.js.map": "/Fast-Food-Shop/static/js/main.c133b671.chunk.js.map",
     "runtime-main.js": "/Fast-Food-Shop/static/js/runtime-main.c6bf3661.js",
     "runtime-main.js.map": "/Fast-Food-Shop/static/js/runtime-main.c6bf3661.js.map",
     "static/css/2.26b352c4.chunk.css": "/Fast-Food-Shop/static/css/2.26b352c4.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.26b352c4.chunk.css",
     "static/js/2.952db2e8.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.782fcd33.chunk.js"
+    "static/js/main.c133b671.chunk.js"
   ]
 }
