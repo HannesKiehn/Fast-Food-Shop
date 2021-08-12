@@ -27,7 +27,7 @@ class OrderPage extends Component {
         <form className="form-inline">
           <div className="row">
             <div className="col">
-              <label>First Name</label>
+              <label htmlFor="firstNameInput">First Name</label>
               <input
                 type="text"
                 className="form-control"
@@ -35,7 +35,7 @@ class OrderPage extends Component {
               ></input>
             </div>
             <div className="col">
-              <label>Last Name</label>
+              <label htmlFor="lastNameInput">Last Name</label>
               <input
                 type="text"
                 className="form-control"
@@ -45,7 +45,7 @@ class OrderPage extends Component {
           </div>
 
           <div className="form-group">
-            <label>Address</label>
+            <label htmlFor="streetInput">Address</label>
             <input
               type="text"
               className="form-control"
@@ -54,7 +54,7 @@ class OrderPage extends Component {
             ></input>
           </div>
           <div className="form-group">
-            <label>Postcode</label>
+            <label htmlFor="postcodeInput">Postcode</label>
             <input
               type="text"
               className="form-control"
@@ -63,7 +63,7 @@ class OrderPage extends Component {
           </div>
 
           <div className="form-group">
-            <label>Email address</label>
+            <label htmlFor="emailInput">Email address</label>
             <input
               type="email"
               className="form-control"
@@ -72,7 +72,7 @@ class OrderPage extends Component {
             ></input>
           </div>
           <div className="form-group">
-            <label>Phone</label>
+            <label htmlFor="phoneInput">Phone</label>
             <input type="text" className="form-control" id="phoneInput"></input>
           </div>
         </form>
