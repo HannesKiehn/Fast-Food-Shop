@@ -295,8 +295,6 @@ class App extends Component {
 
   handleVeganSort = (event) => {
     this.setState({ page: 1 });
-    console.log(event.target.checked);
-    console.log(this.state.sortBy);
     let sortBy = this.state.sortBy;
     sortBy.vegan = event.target.checked;
     this.setState({ sortBy });
